@@ -14,5 +14,7 @@
 		$result += $val;
 	}
 	
+	$result += $test;
+	
 	echo $result;
 ?>
