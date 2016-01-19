@@ -22,7 +22,8 @@
 	echo $test;
 	
 	if($test == 4){
-		echo ' VALUE IS 4 !';
+		$test *= 2
+		echo ' VALUE IS '.$test.' !';
 	}else{
 		echo ' VALUE IS NOT 4 !';
 	}
