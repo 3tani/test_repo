@@ -22,7 +22,7 @@
 	echo $test;
 	
 	if($test == 4){
-		echo ' VALUE IS 4 !';
+		echo ' VALUE IS 8 !';
 	}else{
 		echo ' VALUE IS NOT 4 !';
 	}
